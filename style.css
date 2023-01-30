@@ -41,6 +41,13 @@ main p{
     width: 60vw;    
 }
 
+.video{
+    margin: 2rem auto 0 ;
+    width: 60vw;
+    min-width: 320px;
+    height: calc(.5000 * 60vw);
+}
+
 
 @media (min-width: 730px){
     main p{
